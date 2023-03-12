@@ -14,23 +14,23 @@ lang: en
 
 
 # Change to your timezone › http://www.timezoneconverter.com/cgi-bin/findzone/findzone
-timezone:
+timezone: America/Chicago
 
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Chirpy                          # the main title
+title: 7w1                          # the main title
 
-tagline: A text-focused Jekyll theme   # it will display as the sub-title
+tagline: Lots Of Random Stuff   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-  A minimal, responsive, and powerful Jekyll theme for presenting professional writing.
+  Lots of random stuff that may or may not be useful to anyone.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: ''
+url: 'https://7w1.github.io'
 
 github:
-  username: github_username             # change to your github username
+  username: 7w1             # change to your github username
 
 twitter:
   username: twitter_username            # change to your twitter username
@@ -38,12 +38,12 @@ twitter:
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: your_full_name
+  name: 7w1
   email: example@domain.com             # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/username      # change to your twitter homepage
-    - https://github.com/username       # change to your github homepage
+    #- https://twitter.com/username      # change to your twitter homepage
+    - https://github.com/7w1       # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
@@ -81,7 +81,7 @@ theme_mode:   # [light|dark]
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar:
+avatar: assets/img/favicon.png
 
 # boolean type, the global switch for ToC in posts.
 toc: true
@@ -97,14 +97,14 @@ comments:
     issue_term:   # < url | pathname | title | ...>
   # Giscus options › https://giscus.app
   giscus:
-    repo:              # <gh-username>/<repo>
-    repo_id:
-    category:
-    category_id:
-    mapping:           # optional, default to 'pathname'
-    input_position:    # optional, default to 'bottom'
+    repo: 7w1/7w1.github.io              # <gh-username>/<repo>
+    repo_id: R_kgDOJIbdog
+    category: Announcements
+    category_id: DIC_kwDOJIbdos4CU0Dw
+    mapping: og:title           # optional, default to 'pathname'
+    input_position: top    # optional, default to 'bottom'
     lang:              # optional, default to the value of `site.lang`
-    reactions_enabled: # optional, default to the value of `1`
+    reactions_enabled: 1 # optional, default to the value of `1`
 
 # Self-hosted static assets, optional › https://github.com/cotes2020/chirpy-static-assets
 assets:
