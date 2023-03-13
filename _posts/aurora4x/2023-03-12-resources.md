@@ -35,7 +35,7 @@ While these aren't tutorials, they often act like them since youtubers need to e
 
 [Quill18's playthrough (short).](https://www.youtube.com/playlist?list=PLs3acGYgI1-tVuiV_b65o7YfSpjl1S4ai)
 
-[Zhatelier's playthrough (Theres a few others on his channel aswell).](https://www.youtube.com/playlist?list=PLKFBBf1WhFzRdjHDTFO4Cn_ny0HSY1Uu6)
+[Zhatelier's playthrough (There's a few others on his channel aswell).](https://www.youtube.com/playlist?list=PLKFBBf1WhFzRdjHDTFO4Cn_ny0HSY1Uu6)
 
 [Korgath228's playthrough.](https://www.youtube.com/playlist?list=PLz-vcrP1cq-GpxO4fsna-pUNwbKZOwoCv)
 
