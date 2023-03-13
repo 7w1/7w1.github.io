@@ -13,13 +13,25 @@ Want your tutorial (or someone else's) added? Contact me (7w1) in the Aurora 4x 
 
 # Tutorials
 
+## Beginner
+
+### Written
+
 [Our very own written tutorial featuring detailed explantory images.](https://7w1.github.io/posts/tutorial0/)
 
 [NavalGazing's written tutorial](https://www.navalgazing.net/Aurora-Tutorial-Part-1)
 
+### Video
+
 [Defran's noobie starter playlist.](https://www.youtube.com/playlist?list=PLfTxfvIdAKlvJR_Qqy8vrvhJ4b8r6Azbr)
 
-[Defran's quickfire tutorial playlist (not for complete beginners).](https://www.youtube.com/playlist?list=PLfTxfvIdAKluRAI7j6_fSc3ypGtC2nmhA)
+[the15minutegamer's tutorial playlist](https://youtube.com/playlist?list=PLfmOBFyOhyN3BU6lxWtHhT1gzWhiMDhM1)
+
+[Defran's conventional start playlist.](https://www.youtube.com/playlist?list=PLfTxfvIdAKlvsRH7jgj9Ew9g4FntgKSip)
+
+## Intermediate
+
+[Defran's quickfire tutorial playlist.](https://www.youtube.com/playlist?list=PLfTxfvIdAKluRAI7j6_fSc3ypGtC2nmhA)
 
 [Defran's ship design playlist.](https://www.youtube.com/playlist?list=PLfTxfvIdAKlvejwDMxkwmE-ZR0DzoTGZc)
 
