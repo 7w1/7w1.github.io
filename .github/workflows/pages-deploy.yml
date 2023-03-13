@@ -80,4 +80,4 @@ jobs:
         echo "DEPLOY_BRANCH=gh-pages" >> $GITHUB_OUTPUT
     - name: Deploy to GitHub Pages
       id: deployment
-      uses: actions/deploy-pages@v1 #a
+      uses: actions/deploy-pages@v1
