@@ -9,7 +9,7 @@ pin: true
 
 Everything linked here is using the C# edition of Aurora 4x. For other versions see [here](https://7w1.github.io/posts/resources/) (doesn't exist yet).
 
-Want your tutorial (or someone else's) added? Contact me (7w1) in the Aurora 4x discord or see [contributing](https://github.com/7w1/7w1.github.io).
+Want your tutorial (or someone else's) added? Contact me (7w1) in the Aurora 4x discord or see [contributing](https://github.com/7w1/7w1.github.io){:target="_blank"}.
 
 # Tutorials
 
@@ -17,54 +17,54 @@ Want your tutorial (or someone else's) added? Contact me (7w1) in the Aurora 4x 
 
 ### Written
 
-[Our very own written tutorial featuring detailed explantory images.](https://7w1.github.io/posts/tutorial0/)
+[Our very own written tutorial featuring detailed explantory images.](https://7w1.github.io/posts/tutorial0/){:target="_blank"}
 
-[NavalGazing's written tutorial](https://www.navalgazing.net/Aurora-Tutorial-Part-1)
+[NavalGazing's written tutorial](https://www.navalgazing.net/Aurora-Tutorial-Part-1){:target="_blank"}
 
 ### Video
 
-[Defran's noobie starter playlist.](https://www.youtube.com/playlist?list=PLfTxfvIdAKlvJR_Qqy8vrvhJ4b8r6Azbr)
+[Defran's noobie starter playlist.](https://www.youtube.com/playlist?list=PLfTxfvIdAKlvJR_Qqy8vrvhJ4b8r6Azbr){:target="_blank"}
 
-[the15minutegamer's tutorial playlist](https://youtube.com/playlist?list=PLfmOBFyOhyN3BU6lxWtHhT1gzWhiMDhM1)
+[the15minutegamer's tutorial playlist](https://youtube.com/playlist?list=PLfmOBFyOhyN3BU6lxWtHhT1gzWhiMDhM1){:target="_blank"}
 
-[Defran's conventional start playlist.](https://www.youtube.com/playlist?list=PLfTxfvIdAKlvsRH7jgj9Ew9g4FntgKSip)
+[Defran's conventional start playlist.](https://www.youtube.com/playlist?list=PLfTxfvIdAKlvsRH7jgj9Ew9g4FntgKSip){:target="_blank"}
 
 ## Intermediate
 
-[Defran's quickfire tutorial playlist.](https://www.youtube.com/playlist?list=PLfTxfvIdAKluRAI7j6_fSc3ypGtC2nmhA)
+[Defran's quickfire tutorial playlist.](https://www.youtube.com/playlist?list=PLfTxfvIdAKluRAI7j6_fSc3ypGtC2nmhA){:target="_blank"}
 
-[Defran's ship design playlist.](https://www.youtube.com/playlist?list=PLfTxfvIdAKlvejwDMxkwmE-ZR0DzoTGZc)
+[Defran's ship design playlist.](https://www.youtube.com/playlist?list=PLfTxfvIdAKlvejwDMxkwmE-ZR0DzoTGZc){:target="_blank"}
 
 # Playthroughs
 
 While these aren't tutorials, they often act like them since youtubers need to explain their actions to an audience that knows little about the game.
 
-[Defran's playthroughs (his channel has a bunch of them).](https://www.youtube.com/@DefranStrategy/playlists)
+[Defran's playthroughs (his channel has a bunch of them).](https://www.youtube.com/@DefranStrategy/playlists){:target="_blank"}
 
-[EnterElysium's playthrough.](https://www.youtube.com/playlist?list=PLR5ZBfGW6e1mmQBsRhAxHmZM1a7GQ9Rcl)
+[EnterElysium's playthrough.](https://www.youtube.com/playlist?list=PLR5ZBfGW6e1mmQBsRhAxHmZM1a7GQ9Rcl){:target="_blank"}
 
-[Count Cristo's playthrough.](https://www.youtube.com/playlist?list=PLTLH5xzGKAolcaXLAhGlcvkaCqcuzgR1C)
+[Count Cristo's playthrough.](https://www.youtube.com/playlist?list=PLTLH5xzGKAolcaXLAhGlcvkaCqcuzgR1C){:target="_blank"}
 
-[Quill18's playthrough (short).](https://www.youtube.com/playlist?list=PLs3acGYgI1-tVuiV_b65o7YfSpjl1S4ai)
+[Quill18's playthrough (short).](https://www.youtube.com/playlist?list=PLs3acGYgI1-tVuiV_b65o7YfSpjl1S4ai){:target="_blank"}
 
-[Zhatelier's playthrough (There's a few others on his channel aswell).](https://www.youtube.com/playlist?list=PLKFBBf1WhFzRdjHDTFO4Cn_ny0HSY1Uu6)
+[Zhatelier's playthrough (There's a few others on his channel aswell).](https://www.youtube.com/playlist?list=PLKFBBf1WhFzRdjHDTFO4Cn_ny0HSY1Uu6){:target="_blank"}
 
-[Korgath228's playthrough.](https://www.youtube.com/playlist?list=PLz-vcrP1cq-GpxO4fsna-pUNwbKZOwoCv)
+[Korgath228's playthrough.](https://www.youtube.com/playlist?list=PLz-vcrP1cq-GpxO4fsna-pUNwbKZOwoCv){:target="_blank"}
 
 # Forums
 
 Great places to ask for help or browse for answers.
 
-[Aurora 4x Forums.](http://aurora2.pentarch.org/)
+[Aurora 4x Forums.](http://aurora2.pentarch.org/){:target="_blank"}
 
-[Main discord server.](https://discord.gg/Q5ryqdW)
+[Main discord server.](https://discord.gg/Q5ryqdW){:target="_blank"}
 
-[Defran Strategy's Aurora 4x discord server.](https://discord.gg/PWy8NDY)
+[Defran Strategy's Aurora 4x discord server.](https://discord.gg/PWy8NDY){:target="_blank"}
 
-[Aurora 4x Reddit.](https://www.reddit.com/r/aurora/)
+[Aurora 4x Reddit.](https://www.reddit.com/r/aurora/){:target="_blank"}
 
 # Other
 
-[Aurora 4x C# changelogs](http://aurora2.pentarch.org/index.php?topic=10666.0)
+[Aurora 4x C# changelogs](http://aurora2.pentarch.org/index.php?topic=10666.0){:target="_blank"}
 
-[Aurora 4x C# and vb6 wiki (C# is really just the changelogs formatted)](http://aurorawiki.pentarch.org/index.php?title=Main_Page)
+[Aurora 4x C# and vb6 wiki (C# is really just the changelogs formatted)](http://aurorawiki.pentarch.org/index.php?title=Main_Page){:target="_blank"}
