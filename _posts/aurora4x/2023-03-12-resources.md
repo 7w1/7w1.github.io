@@ -19,13 +19,13 @@ Want your tutorial (or someone else's) added? Contact me (7w1) in the Aurora 4x 
 
 [Our very own written tutorial featuring detailed explantory images.](https://7w1.github.io/posts/tutorial0/){:target="_blank"}
 
-[NavalGazing's written tutorial](https://www.navalgazing.net/Aurora-Tutorial-Part-1){:target="_blank"}
+[NavalGazing's written tutorial.](https://www.navalgazing.net/Aurora-Tutorial-Part-1){:target="_blank"}
 
 ### Video
 
 [Defran's noobie starter playlist.](https://www.youtube.com/playlist?list=PLfTxfvIdAKlvJR_Qqy8vrvhJ4b8r6Azbr){:target="_blank"}
 
-[the15minutegamer's tutorial playlist](https://youtube.com/playlist?list=PLfmOBFyOhyN3BU6lxWtHhT1gzWhiMDhM1){:target="_blank"}
+[the15minutegamer's tutorial playlist.](https://youtube.com/playlist?list=PLfmOBFyOhyN3BU6lxWtHhT1gzWhiMDhM1){:target="_blank"}
 
 [Defran's conventional start playlist.](https://www.youtube.com/playlist?list=PLfTxfvIdAKlvsRH7jgj9Ew9g4FntgKSip){:target="_blank"}
 
@@ -51,6 +51,8 @@ While these aren't tutorials, they often act like them since youtubers need to e
 
 [Korgath228's playthrough.](https://www.youtube.com/playlist?list=PLz-vcrP1cq-GpxO4fsna-pUNwbKZOwoCv){:target="_blank"}
 
+[MyTurn2Game's playthrough.](https://www.youtube.com/playlist?list=PLC5py6yv6tvqC_0O_TCil-QceaPna_ueT){:target="_blank"}
+
 # Forums
 
 Great places to ask for help or browse for answers.
@@ -65,6 +67,6 @@ Great places to ask for help or browse for answers.
 
 # Other
 
-[Aurora 4x C# changelogs](http://aurora2.pentarch.org/index.php?topic=10666.0){:target="_blank"}
+[Aurora 4x C# changelogs.](http://aurora2.pentarch.org/index.php?topic=10666.0){:target="_blank"}
 
-[Aurora 4x C# and vb6 wiki (C# is really just the changelogs formatted)](http://aurorawiki.pentarch.org/index.php?title=Main_Page){:target="_blank"}
+[Aurora 4x C# and vb6 wiki (C# is really just the changelogs formatted).](http://aurorawiki.pentarch.org/index.php?title=Main_Page){:target="_blank"}
