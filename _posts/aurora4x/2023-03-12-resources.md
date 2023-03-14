@@ -62,3 +62,9 @@ Great places to ask for help or browse for answers.
 [Defran Strategy's Aurora 4x discord server.](https://discord.gg/PWy8NDY)
 
 [Aurora 4x Reddit.](https://www.reddit.com/r/aurora/)
+
+# Other
+
+[Aurora 4x C# changelogs](http://aurora2.pentarch.org/index.php?topic=10666.0)
+
+[Aurora 4x C# and vb6 wiki (C# is really just the changelogs formatted)](http://aurorawiki.pentarch.org/index.php?title=Main_Page)
