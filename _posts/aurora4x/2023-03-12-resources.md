@@ -1,7 +1,7 @@
 ---
 title: Aurora 4x Resources List
 date: 2023-03-12 20:30:00 -500
-last_modified_at: 2023-03-14 14:29:00 -500
+last_modified_at: 2023-03-16 21:36:00 -500
 categories: [Aurora 4x, resources]
 tags: [Aurora 4x, resources, wiki]
 author: 7w1
@@ -30,6 +30,8 @@ Want your tutorial (or someone else's) added? Contact me (7w1) in the Aurora 4x 
 
 [Defran's conventional start playlist.](https://www.youtube.com/playlist?list=PLfTxfvIdAKlvsRH7jgj9Ew9g4FntgKSip){:target="_blank"}
 
+[Wolfman at Large's tutorial-ish playthrough.](https://www.youtube.com/playlist?list=PLSFIDatm1gmGLq-efenIBxPhTt5Jr4txQ){:target="_blank"}
+
 ## Intermediate
 
 [Defran's quickfire tutorial playlist.](https://www.youtube.com/playlist?list=PLfTxfvIdAKluRAI7j6_fSc3ypGtC2nmhA){:target="_blank"}
@@ -53,6 +55,8 @@ While these aren't tutorials, they often act like them since youtubers need to e
 [Korgath228's playthrough.](https://www.youtube.com/playlist?list=PLz-vcrP1cq-GpxO4fsna-pUNwbKZOwoCv){:target="_blank"}
 
 [MyTurn2Game's playthrough.](https://www.youtube.com/playlist?list=PLC5py6yv6tvqC_0O_TCil-QceaPna_ueT){:target="_blank"}
+
+[Liquidor's playthrough.](https://www.youtube.com/playlist?list=PLKpUBzXuaZiUHifCmZ8u4mpOWAGE59acl){:target="_blank"}
 
 # Forums
 
