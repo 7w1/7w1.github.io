@@ -1,7 +1,7 @@
 ---
 title: Aurora 4x Resources List
 date: 2023-03-12 20:30:00 -500
-last_modified_at: 2023-03-16 21:36:00 -500
+last_modified_at: 2023-03-21 16:52:10 -500
 categories: [Aurora 4x, resources]
 tags: [Aurora 4x, resources, wiki]
 author: 7w1
@@ -52,7 +52,7 @@ While these aren't tutorials, they often act like them since youtubers need to e
 
 [Zhatelier's playthrough (There's a few others on his channel aswell).](https://www.youtube.com/playlist?list=PLKFBBf1WhFzRdjHDTFO4Cn_ny0HSY1Uu6){:target="_blank"}
 
-[Korgath228's playthrough.](https://www.youtube.com/playlist?list=PLz-vcrP1cq-GpxO4fsna-pUNwbKZOwoCv){:target="_blank"}
+[Korgath223's playthrough.](https://www.youtube.com/playlist?list=PLz-vcrP1cq-GpxO4fsna-pUNwbKZOwoCv){:target="_blank"}
 
 [MyTurn2Game's playthrough.](https://www.youtube.com/playlist?list=PLC5py6yv6tvqC_0O_TCil-QceaPna_ueT){:target="_blank"}
 
